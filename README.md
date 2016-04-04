@@ -4,6 +4,8 @@ A couple of python scripts which work together to detect if your door was opened
 
 Works with a Raspberry Pi B+, a magnetic door sensor and an Apple Mac Mini.
 
+<img src="src="home-alarm-Python-/home-alarm.JPG">
+
 The sensor is connected to the GPIO Pin n°1 to send 3.3V and return to the n°18 Pin which check if there is voltage or not.
 
 This detection is made by the alarm.py script.
