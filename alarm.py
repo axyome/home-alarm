@@ -9,7 +9,7 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(18, GPIO.IN)
 
 
-params = ('192.168.1.200', 8809)
+params = ('IP_OF THE SERVER_SCRIPT', NUM_OF THE_PORT_THE SERVER_LISTEN)
 BUFFER_SIZE = 1024 # default
 messages = [b'|1\n']
 
