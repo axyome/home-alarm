@@ -1,6 +1,6 @@
 #Home Alarm
 
-A couple of python scripts which work together to detect if your door was opened.
+A couple of python scripts which work together to detect if your door was opened and send imessage or sms to alert someone you want.
 
 Works with a Raspberry Pi B+, a magnetic door sensor and an Apple Mac Mini.
 
